@@ -1,6 +1,12 @@
 ### Hi there 👋
 Mancos
-
+     *        
+    ***        
+   *****        
+ *********       
+    III
+    III
+            
 <!--
 **Danymjia/Danymjia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
