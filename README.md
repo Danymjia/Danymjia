@@ -70,66 +70,6 @@ Me apasiona crear soluciones de software que combinen una buena experiencia de u
 
 ---
 
-# 💼 Proyectos Destacados
-
-### 📌 PoliRed
-
-Aplicación web y móvil enfocada en fortalecer las redes comunitarias dentro de la Escuela Politécnica Nacional.
-
-**Tecnologías utilizadas**
-
-* Flutter
-* Node.js
-* Express
-* MongoDB
-* Cloudinary
-* JWT
-* Provider
-* Vercel
-
----
-
-### 📌 Sistema Web Colaborativo para Redes Comunitarias
-
-Proyecto desarrollado como parte del trabajo de titulación.
-
-Participación en:
-
-* Desarrollo Backend.
-* Desarrollo móvil.
-* Diseño de APIs REST.
-* Integración de base de datos.
-* Autenticación.
-* Pruebas y documentación técnica.
-
----
-
-### 📌 Aplicaciones Web
-
-He desarrollado aplicaciones con funcionalidades como:
-
-* Autenticación de usuarios.
-* CRUD completos.
-* Paneles administrativos.
-* Gestión de usuarios.
-* Consumo y desarrollo de APIs REST.
-* Subida de imágenes y archivos.
-* Dashboards.
-
----
-
-### 📌 Aplicaciones Móviles
-
-Experiencia desarrollando aplicaciones Flutter con:
-
-* Arquitectura modular.
-* Provider.
-* Consumo de APIs.
-* Persistencia local.
-* Interfaces responsivas.
-
----
-
 # 📖 Actualmente aprendiendo
 
 * Sistemas Distribuidos
@@ -145,7 +85,7 @@ Experiencia desarrollando aplicaciones Flutter con:
 
 # 📊 Estadísticas de GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Danymjia&locale=es&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Danymjia&theme=dark&locale=es&mode=weekly)](https://git.io/streak-stats)
 
 ---
 
