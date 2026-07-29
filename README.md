@@ -1,8 +1,4 @@
-# ¡Hola! Soy Dany
-
-### Desarrollador Full Stack | Desarrollador de Software
-
-Me apasiona crear soluciones de software que combinen una buena experiencia de usuario con arquitecturas backend sólidas, utilizando tecnologías modernas para el desarrollo web y móvil.
+<img width="1983" height="793" alt="ChatGPT Image 29 jul 2026, 13_27_53" src="https://github.com/user-attachments/assets/fa86f9d0-cc5c-4268-b546-bb27b385a922" />
 
 ---
 
